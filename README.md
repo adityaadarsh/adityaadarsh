@@ -23,4 +23,4 @@ Hi, I’m Aditya Adarsh! 👋 I’m a Data Scientist and AI Specialist with over
 📬 **Let’s Connect:**  
 [LinkedIn](https://www.linkedin.com/in/aditya-adarsh-657320188/) | [Personal-Website](mailto:aditya.adarsh@gmail.com) | [Email](mailto:aditya.adarsh@gmail.com)  
 
-_"Let’s create something impactfu
+*"Let’s create something impactful"*
