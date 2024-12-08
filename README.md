@@ -1,7 +1,7 @@
 Hi, I’m Aditya Adarsh! 👋 I’m a Data Scientist and AI Specialist with over 6 years of experience in building end-to-end ML pipelines, developing large-scale data solutions, and creating LLM-based applications and MLOps frameworks.
 
 📝 **Love creating:**  
-- [Technical blogs]([https://your-blog-link.com](https://adityaadarsh.hashnode.dev/), [YouTube content](https://youtube.com/your-channel-link](https://www.youtube.com/@butterfly_learner), and impactful projects  
+- [Technical blogs](https://adityaadarsh.hashnode.dev/), [YouTube content](https://www.youtube.com/@butterfly_learner), and impactful projects  
 
 ## 🛠 Technical Skills
 - **Languages**: Python | SQL | GO  
